@@ -5,7 +5,8 @@ int main() {
     int n;
     std::cin >> n;
 
-    if (n < 2) {
+    if (n < 2) 
+    {
         std::cout << "number menshe 2" << std::endl;
     }
     else {
@@ -18,7 +19,8 @@ int main() {
 
         for (int i = 3; i * i <= n; i += 2) 
         {
-            while (n % i == 0) {
+            while (n % i == 0) 
+            {
                 std::cout << " " << i;
                 n /= i;
             }
