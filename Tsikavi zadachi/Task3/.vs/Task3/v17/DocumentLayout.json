@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cpp_projects\\Tsikavi zadachi\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{451160EC-2827-4A3E-A91E-A010EBB2223E}|Task3\\Task3.vcxproj|D:\\cpp_projects\\Tsikavi zadachi\\Task3\\Task3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{451160EC-2827-4A3E-A91E-A010EBB2223E}|Task3\\Task3.vcxproj|solutionrelative:Task3\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task3.cpp",
+              "DocumentMoniker": "D:\\cpp_projects\\Tsikavi zadachi\\Task3\\Task3\\Task3.cpp",
+              "RelativeDocumentMoniker": "Task3\\Task3.cpp",
+              "ToolTip": "D:\\cpp_projects\\Tsikavi zadachi\\Task3\\Task3\\Task3.cpp",
+              "RelativeToolTip": "Task3\\Task3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T15:40:36.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
